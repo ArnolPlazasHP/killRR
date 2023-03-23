@@ -1,0 +1,21 @@
+{
+    "INPUT":
+        {
+            "FILES": 
+                {
+                    "CUSRES": "input/WW_CUSRES.xlsx",
+                    "CUSRES_QTY": "input/cusres_qty.xlsx",
+                    "CUSRES_DQ": "input/cusres_dq.xlsx"
+                },
+            "BD":
+                {
+                    
+                }
+            
+        },
+    "OUTPUT":
+        {
+            
+        }
+
+}

@@ -1,0 +1,9 @@
+#Directories
+input/
+output/
+
+#Enviroment
+.venv/
+
+#python directories
+__pycache__/
